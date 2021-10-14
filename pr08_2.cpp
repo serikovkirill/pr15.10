@@ -6,7 +6,7 @@ int bins(int a[], int l, int r, int x)
 	int index;
 	if (l > r)
 	{
-		index = -1;
+		index = -1; //
 	}
 	else
 	{

@@ -9,7 +9,7 @@ int main()
 	for (i = 0; i <= n; i++)
 	a[i] = new double[n];
 	double** a1 = new double* [n];
-	for (i = 0; i <= n; i++)
+	for (i = 0; i <= n; i++) //
 	a1[i] = new double[n];
 	double* b = new double[n];
 	double* x = new double[n];

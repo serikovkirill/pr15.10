@@ -7,7 +7,7 @@ int main()
 	long double s=0, avg,disp=0;
 	cin >> n;
 	vector <int> a(n+1);
-	vector <int> b(n+10000000);
+	vector <int> b(n+10000000); //
 	for (i=0; i < n; i++)
 	{
 		cin >> a[i];
